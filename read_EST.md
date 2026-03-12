@@ -1,6 +1,6 @@
 
 ## Mis see on?
-**Highlighter** võimaldab brauseris artiklit lugedes **valitud lõigu** (highlighted) mugavalt **kopeerida oma Google Docsi** koos allika lingiga ja #märksõnadega. Kasutab **järjehoidja ribal olevat bookmarkleti** ja **Google Apps Script**.
+**Highlighter** võimaldab brauseris artiklit lugedes **valitud lõigu** (highlighted) mugavalt **kopeerida oma Google Docsi** koos allika lingiga ja #märksõnadega. Kasutab **järjehoidja ribal olevat bookmarkleti** ja **Google Apps Scripti**.
 
 ## Protsess
 - Loed artiklit → valid teksti → klõpsad järjehoidjat → dialoog „Lisa see lõik Docsi?” → "Jah" avab vormi → valid dokumendi ja vajuta „Lisa Docsi”.
