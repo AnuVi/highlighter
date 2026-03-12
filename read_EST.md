@@ -24,12 +24,12 @@ Dokumendi ID on kohas - **XXXXXXXXXX** (see on Doc ID), seda läheb hiljem vaja.
 
 - Mine [script.google.com](https://script.google.com).
 - Klikka **New project** (Uus projekt).
-  <img width="1169" height="324" alt="image" src="https://github.com/user-attachments/assets/f675ef26-1fec-4e3c-a84a-0d0af51bea30" />
-- Nüüd peaks avanema selline vaatepilt:
+  <img width="1169" height="324" alt="image" src="https://github.com/user-attachments/assets/f675ef26-1fec-4e3c-a84a-0d0af51bea30" /><br>
+- Nüüd peaks avanema selline vaatepilt:<br>
 <img width="1499" height="627" alt="image" src="https://github.com/user-attachments/assets/2175420e-e09b-43ee-9995-8e685efa79da" />
-- _Untitled project_ nimeta ümber endale sobivalt
+- __Untitled project__ nimeta ümber endale sobivalt
 - Kustuta seal olev kood ja kopeeri sinna **kogu** faili **Code.gs** sisu.
-- Nüüd asenda **Code.gs** faili alguses asenda oma Doc ID-d:
+- Asenda **Code.gs** faili alguses asenda oma Doc ID-d:
   'var DOC_IDS = {
   'Dokumendi1 nimi, mida soovid vormis välja kuvada': 'XXXXXXXXXXXX',
   'Dokumendi2 nimi, mida soovid vormis välja kuvada': 'XXXXXXXXXXXXX'
